@@ -151,7 +151,7 @@ fn_layer {
 #elif defined(TBLE_MIT)
 &trans &trans        &trans     &kp RPAR        &trans                &trans             &trans      &trans   &trans &trans &trans
 #else
-&trans &trans        &trans     &kp trans        &trans          &trans       &trans    &trans  &trans         &trans &trans &trans
+&trans &trans        &trans     &trans        &trans          &trans       &trans    &trans  &trans         &trans &trans &trans
 #endif
             >;
         };
